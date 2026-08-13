@@ -1,0 +1,274 @@
+/* src/App.css */
+
+:root {
+  --back-in-black: #16131F;
+  --funkie-friday: #4A3F4B;
+  --moonscape: #806C79;
+  --decanting: #C1A0AC;
+  --mountain-heather: #F0D9E4;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: linear-gradient(160deg, var(--back-in-black) 0%, var(--funkie-friday) 55%, var(--moonscape) 100%);
+  min-height: 100vh;
+  color: var(--mountain-heather);
+  font-family: "Cormorant Garamond", serif;
+}
+
+.app {
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 32px 20px 80px;
+  min-height: 100vh;
+}
+
+/* ---------- Chapter Select ---------- */
+
+.app-title {
+  font-family: "Dancing Script", cursive;
+  font-weight: 400;
+  font-size: 3.2rem;
+  text-align: center;
+  color: var(--mountain-heather);
+  margin: 20px 0 40px;
+  letter-spacing: 1px;
+}
+
+.chapter-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+  gap: 14px;
+}
+
+.chapter-tile {
+  background: rgba(240, 217, 228, 0.05);
+  border: 1px solid var(--moonscape);
+  border-radius: 10px;
+  padding: 18px 12px;
+  color: var(--decanting);
+  font-family: "Cormorant Garamond", serif;
+  font-size: 1.1rem;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 6px;
+  transition: all 0.25s ease;
+}
+
+.chapter-tile.unlocked:hover {
+  border-color: var(--mountain-heather);
+  background: rgba(240, 217, 228, 0.1);
+  transform: translateY(-2px);
+}
+
+.chapter-tile.locked {
+  opacity: 0.35;
+  cursor: not-allowed;
+}
+
+.chapter-number {
+  font-size: 1.6rem;
+  font-weight: 600;
+  color: var(--mountain-heather);
+}
+
+/* ---------- Reading View ---------- */
+
+.back-button {
+  background: none;
+  border: none;
+  color: var(--decanting);
+  font-family: "Cormorant Garamond", serif;
+  font-size: 1rem;
+  cursor: pointer;
+  margin-bottom: 20px;
+  padding: 0;
+}
+
+.back-button:hover {
+  color: var(--mountain-heather);
+}
+
+.reader-title {
+  font-family: "Dancing Script", cursive;
+  font-size: 2.4rem;
+  font-weight: 400;
+  margin-bottom: 30px;
+  color: var(--mountain-heather);
+}
+
+.section {
+  margin-bottom: 40px;
+  padding-left: 18px;
+  border-left: 2px solid var(--moonscape);
+}
+
+.section.narrator-adhirikht {
+  border-left-color: var(--decanting);
+}
+
+.narrator-label {
+  font-family: "Cormorant Garamond", serif;
+  font-size: 0.8rem;
+  letter-spacing: 3px;
+  color: var(--decanting);
+  margin-bottom: 14px;
+}
+
+.story-paragraph {
+  font-size: 1.25rem;
+  line-height: 1.8;
+  color: var(--mountain-heather);
+  margin: 0 0 16px;
+}
+
+.finish-button {
+  display: block;
+  margin: 40px auto 0;
+  background: var(--decanting);
+  color: var(--back-in-black);
+  border: none;
+  border-radius: 30px;
+  padding: 14px 36px;
+  font-family: "Cormorant Garamond", serif;
+  font-size: 1.1rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.finish-button:hover:not(:disabled) {
+  background: var(--mountain-heather);
+}
+
+.finish-button:disabled {
+  background: var(--funkie-friday);
+  color: var(--moonscape);
+  cursor: not-allowed;
+}
+
+/* ---------- Puzzles ---------- */
+
+.puzzle {
+  background: rgba(22, 19, 31, 0.5);
+  border: 1px solid var(--moonscape);
+  border-radius: 12px;
+  padding: 20px;
+  margin: 20px 0;
+}
+
+.puzzle-instruction {
+  font-style: italic;
+  color: var(--decanting);
+  margin-bottom: 16px;
+}
+
+.evidence-slots, .device-slots {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.evidence-slot, .device-slot {
+  flex: 1;
+  min-width: 100px;
+  min-height: 50px;
+  border: 1px dashed var(--moonscape);
+  border-radius: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 10px;
+  text-align: center;
+  cursor: pointer;
+  color: var(--moonscape);
+}
+
+.evidence-slot.filled, .device-slot.filled {
+  border-style: solid;
+  border-color: var(--decanting);
+  color: var(--mountain-heather);
+  background: rgba(193, 160, 172, 0.15);
+}
+
+.evidence-pieces, .device-parts {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.evidence-piece, .device-part {
+  background: rgba(240, 217, 228, 0.08);
+  border: 1px solid var(--decanting);
+  border-radius: 8px;
+  padding: 10px 16px;
+  cursor: pointer;
+  color: var(--mountain-heather);
+}
+
+.evidence-piece.selected, .device-part.selected {
+  background: var(--decanting);
+  color: var(--back-in-black);
+}
+
+.evidence-piece.used, .device-part.used {
+  opacity: 0.25;
+  cursor: not-allowed;
+}
+
+.code-form {
+  display: flex;
+  gap: 10px;
+}
+
+.code-form.shake {
+  animation: shake 0.4s;
+}
+
+@keyframes shake {
+  25% { transform: translateX(-6px); }
+  75% { transform: translateX(6px); }
+}
+
+.code-form input {
+  flex: 1;
+  background: rgba(240, 217, 228, 0.08);
+  border: 1px solid var(--moonscape);
+  border-radius: 6px;
+  padding: 10px 14px;
+  color: var(--mountain-heather);
+  font-family: "Cormorant Garamond", serif;
+  font-size: 1rem;
+}
+
+.code-form button {
+  background: var(--decanting);
+  border: none;
+  border-radius: 6px;
+  padding: 10px 20px;
+  color: var(--back-in-black);
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.hint-button {
+  background: none;
+  border: none;
+  color: var(--moonscape);
+  font-style: italic;
+  margin-top: 12px;
+  cursor: pointer;
+  font-size: 0.95rem;
+}
+
+.puzzle-solved-text {
+  color: var(--mountain-heather);
+  font-style: italic;
+}
