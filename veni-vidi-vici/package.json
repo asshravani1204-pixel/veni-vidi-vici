@@ -2,12 +2,15 @@
   "name": "veni-vidi-vici",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://asshravani1204-pixel.github.io/veni-vidi-vici",
   "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "lint": "oxlint",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "predeploy": "npm run build",
+  "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "react": "^19.2.8",

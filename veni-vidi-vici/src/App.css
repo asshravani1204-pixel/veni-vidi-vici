@@ -40,9 +40,21 @@ body {
 }
 
 .chapter-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+  display: flex;
   gap: 14px;
+  overflow-x: auto;
+  padding-bottom: 12px;
+  scroll-snap-type: x mandatory;
+  -webkit-overflow-scrolling: touch;
+}
+
+.chapter-grid::-webkit-scrollbar {
+  height: 6px;
+}
+
+.chapter-grid::-webkit-scrollbar-thumb {
+  background: var(--moonscape);
+  border-radius: 10px;
 }
 
 .chapter-tile {
@@ -59,6 +71,9 @@ body {
   align-items: center;
   gap: 6px;
   transition: all 0.25s ease;
+  min-width: 140px;
+  scroll-snap-align: start;
+  flex-shrink: 0;
 }
 
 .chapter-tile.unlocked:hover {
