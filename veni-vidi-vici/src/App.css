@@ -2,10 +2,10 @@
 
 :root {
   --back-in-black: #16131F;
-  --funkie-friday: #4A3F4B;
+  --moonscape: #806C79;
   --mountain-heather: #F0D9E4;
   --decanting: #C1A0AC;
-  --moonscape: #806C79;
+  --funkie-friday: #4A3F4B;
   
 }
 
@@ -51,6 +51,7 @@ body {
 
 .chapter-grid::-webkit-scrollbar {
   width: 6px;
+  height: 6px;
 }
 
 .chapter-grid::-webkit-scrollbar-thumb {
