@@ -39,6 +39,24 @@ body {
   margin: 20px 0 40px;
   letter-spacing: 1px;
 }
+.thread-columns {
+  display: flex;
+  gap: 20px;
+}
+
+.thread-column {
+  flex: 1;
+  min-width: 0;
+}
+
+.thread-label {
+  font-family: "Dancing Script", cursive;
+  font-size: 1.6rem;
+  font-weight: 400;
+  color: var(--decanting);
+  margin-bottom: 14px;
+  text-align: center;
+}
 
 .chapter-grid {
   display: flex;
