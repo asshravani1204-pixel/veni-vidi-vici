@@ -3,9 +3,10 @@
 :root {
   --back-in-black: #16131F;
   --funkie-friday: #4A3F4B;
-  --moonscape: #806C79;
-  --decanting: #C1A0AC;
   --mountain-heather: #F0D9E4;
+  --decanting: #C1A0AC;
+  --moonscape: #806C79;
+  
 }
 
 * {
@@ -41,15 +42,15 @@ body {
 
 .chapter-grid {
   display: flex;
+  flex-direction: column;
   gap: 14px;
-  overflow-x: auto;
-  padding-bottom: 12px;
-  scroll-snap-type: x mandatory;
-  -webkit-overflow-scrolling: touch;
+  max-height: 70vh;
+  overflow-y: auto;
+  padding-right: 8px;
 }
 
 .chapter-grid::-webkit-scrollbar {
-  height: 6px;
+  width: 6px;
 }
 
 .chapter-grid::-webkit-scrollbar-thumb {
@@ -71,7 +72,6 @@ body {
   align-items: center;
   gap: 6px;
   transition: all 0.25s ease;
-  min-width: 140px;
   scroll-snap-align: start;
   flex-shrink: 0;
 }
