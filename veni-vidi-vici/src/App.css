@@ -306,3 +306,14 @@ body {
   color: var(--mountain-heather);
   font-style: italic;
 }
+.season-dropdown {
+  display: oval;
+  margin: 0 auto 24px;
+  background: rgba(212, 93, 151, 0.952);
+  border: 1px solid var(--moonscape);
+  border-radius: 8px;
+  padding: 8px 14px;
+  color: var(--mountain-heather);
+  font-family: "Cormorant Garamond", serif;
+  font-size: 1rem;
+}
