@@ -1547,7 +1547,7 @@ export const chapters = [
 {
   id: 201,
   title: "Season 2 — I",
-  unlocked: false,
+  unlocked: true,
   sections: [
     {
       narrator: "system",
@@ -1638,7 +1638,7 @@ export const chapters = [
 {
   id: 202,
   title: "Season 2 — II",
-  unlocked: false,
+  unlocked: true,
   sections: [
     {
       narrator: "katerina",
@@ -1709,7 +1709,7 @@ export const chapters = [
 {
   id: 203,
   title: "Season 2 — III",
-  unlocked: false,
+  unlocked: true,
   sections: [
     {
       narrator: "adhirikht",
