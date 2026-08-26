@@ -711,6 +711,74 @@ export const chapters = [
 }
 ,
 {
+  id: 10,
+  title: "Katerina X",
+  unlocked: false,
+  sections: [
+    {
+      narrator: "katerina",
+      text: [
+        "Four years. That's how long it's actually been, though some mornings it feels like both a lifetime and no time at all, the way grief has a way of collapsing distance when you're not paying attention to it.",
+        "I have my own office now, two floors above a tailor's shop on a quiet street I chose specifically because it reminded me of nothing from my old life. *Petrova Investigations* on the glass door, simple black lettering, my own name finally standing alone, answerable to no one else's story but mine.",
+        "\"Another cheating spouse case just came in,\" Selene says, dropping a folder on my desk, still technically working her own cover but spending more time in this office than her actual firm at this point, something neither of us has bothered addressing directly. \"Husband, this time. Wife thinks he's seeing someone from his gym.\"",
+        "\"Let me guess. New soap smell he can't explain.\"",
+        "\"Something like that.\" She sits on the edge of my desk, watching me the way she still does sometimes, checking, always checking, four years on. \"You okay taking this one? I know the pattern gets close sometimes.\"",
+        "\"I'm fine, Selene. It's just a case.\"",
+        "\"It's never just a case with you. You solve them like you're settling a score every single time.\"",
+        "I don't argue with that, because she's not wrong. Every cheating spouse case that walks through that door, I solve with a precision that has nothing to do with professional pride and everything to do with a debt I'll apparently be paying off for the rest of my life."
+      ],
+      puzzle: null
+    },
+    {
+      narrator: "katerina",
+      text: [
+        "I'm good at this. I want to say that plainly, without false modesty, because I earned it — four years of building instincts sharp enough that clients started referring other clients before I'd even finished my first year properly licensed. I read people the way I once read fabric, understanding immediately which lies have structure and which are already fraying at the seams.",
+        "I still think about that night sometimes. Not Julian — Julian I think about the way you think about weather from years ago, distant, factual, stripped of feeling. I think about the stranger instead. The man floating in black water who wasn't drowning, whose eyes, even in the dark, I still remember with a clarity that unsettles me sometimes, pale and unreadable and entirely, strangely calm for a man I'd assumed wanted to die.",
+        "\"You're doing the thing again,\" Selene says, watching me from the doorway of my own office, a knowing look on her face.",
+        "\"What thing.\"",
+        "\"Staring at nothing. You do it every couple of months, always around this time of year. Ever going to tell me what you're actually thinking about?\"",
+        "\"Nothing important.\"",
+        "\"Liar. You're a terrible liar to me specifically, you know that? Everyone else, sure. Me, never.\" She crosses her arms, settling in against the doorframe. \"Fine. Keep your mystery. But for what it's worth, whoever he was — and I know it's a he, your face gets a very specific look — I hope you run into him again someday. Properly this time.\""
+      ],
+      puzzle: null
+    },
+    {
+      narrator: "katerina",
+      text: [
+        "I don't tell her how often I actually think about it, how the memory has settled into something I return to almost like a private ritual, turning it over the way you turn over a stone worn smooth from handling. I don't tell her that some nights, working late in this office, I catch myself wondering what he'd been running from, floating alone in that water at two in the morning, in a city that wasn't his — wondering whether he ever thought about the furious stranger who'd pulled him toward shore and told him, uselessly, to go home and talk to someone.",
+        "I've built a whole life since that night. A career. A reputation. A version of myself who wears black more often than not, who reads a room before she's even finished crossing its threshold, who has never once, in four years, let another man get close enough to lie to her the way Julian did. I am, by every external measure, exactly who I set out to become that Tuesday I decided the world's justice systems weren't built to punish men like him.",
+        "And yet some quiet, unresolved part of me is still standing on those rocks sometimes, watching a stranger's pale eyes track me through the dark, understanding — even now, even four years later, without being able to fully explain why — that whatever happened between us in that water hadn't actually finished happening at all. It had simply paused, the way a held breath pauses, waiting for something neither of us had been ready to name yet."
+      ],
+      puzzle: null
+    },
+    {
+      narrator: "katerina",
+      text: [
+        "\"Katerina.\" Selene's voice pulls me back, gentle. \"Wherever you just went — come back for a second. New case just came in. Client's downstairs.\"",
+        "\"Coming,\" I tell her, standing, straightening the black blazer I've come to think of as something close to armor.",
+        "\"Before you do.\" She hesitates at the door, something careful in her voice now. \"I ran into an old contact last week. Someone who does security work for a few of the private clients I still consult for occasionally. He mentioned something odd — said a firm out of the north had been making discreet inquiries about people in Solmere for years now. Fashion industry contacts. Old friends of yours, actually, from Maison Aurelle.\"",
+        "Something goes very still in my chest. \"Inquiries about who?\"",
+        "\"He wasn't sure exactly. Just that the requests were careful, professional, expensive. The kind of digging you'd pay serious money to keep quiet.\" She watches my face carefully. \"Probably nothing. Could be anyone. But given the timeline he mentioned — it's been going on for years, Katerina. Almost exactly as long as it's been since that night.\""
+      ],
+      puzzle: null
+    },
+    {
+      narrator: "katerina",
+      text: [
+        "I don't answer her right away. Some old, unresolved part of me, the part that's spent four years turning over a memory like a stone worn smooth, understands, with a certainty I can't fully explain, exactly whose inquiries those probably are.",
+        "\"Do you have anything else,\" I ask, keeping my voice carefully level. \"A name. Anything.\"",
+        "\"Nothing solid. My contact said whoever's behind it is thorough enough that even he couldn't trace it past two layers of shell arrangements.\" She studies me, something sharpening in her expression now, the old instinct that's kept us both alive through worse than this. \"Katerina. If someone's been quietly investigating you for four years, that's not a coincidence I'm comfortable ignoring, whatever else it might turn out to be.\"",
+        "\"I know.\"",
+        "\"Do you want me to dig into it properly? I can call in a few favors, push harder than my contact was willing to on a casual ask.\"",
+        "I think about the water. I think about pale, unreadable eyes tracking me through the dark, a stranger who let me pull him toward shore without ever once correcting my assumption about why he was floating there at all. \"Not yet,\" I tell her, finally. \"Let me sit with it a little longer first.\"",
+        "\"Send the client up,\" I say, my voice steadier than I feel. \"We'll talk about the other thing later.\"",
+        "She studies me a moment longer, clearly unconvinced, but nods and disappears down the stairs, and I'm left alone in my office, black blazer straightened, heart beating harder than a routine Tuesday morning has any right to cause, wondering, for the first time in four years, whether the pause I've been living inside is finally, quietly, about to end."
+      ],
+      puzzle: null
+    }
+  ]
+},
+{
   id: 101,
   title: "Adhirikht I",
   unlocked: true,
