@@ -633,6 +633,80 @@ export const chapters = [
       ],
       puzzle: null
     }
+  ]  
+},
+{
+  id: 9,
+  title: "Katerina IX",
+  unlocked: false,
+  sections: [
+    {
+      narrator: "katerina",
+      text: [
+        "I get home a little past four. My hands won't stop shaking on the drive, and I keep the radio off the whole way because even music feels like too much input right now, too much of anything.",
+        "Finally. I'm home. That bastard is gone and I am home and my hands are still shaking and I don't know if that's the cold or the adrenaline or something else entirely that I don't have a name for yet.",
+        "Selene is awake when I walk in. Of course she is. She's sitting at the kitchen table with two mugs of something already poured, gone cold hours ago probably, and she doesn't ask where I've been. She just looks at me — soaked, pale, my hands trembling around nothing — and stands up so fast the chair scrapes loud against the floor.",
+        "\"Katerina.\"",
+        "\"It's done,\" I say. My voice doesn't sound like mine. It sounds steadier than I feel, which is its own small horror.",
+        "\"Oh my god.\" She's already moving, already got both hands on my face, checking me for injury the way she used to check me for fever when we were kids. \"Are you hurt? Katerina, are you hurt anywhere?\"",
+        "\"No. I'm fine. I'm not hurt.\"",
+        "\"Okay.\" She breathes out, long and shaky, and pulls me into her instead, both of us soaked now, her arms tight enough that I can actually feel the shape of my own body again for the first time since the water. \"Okay. Okay. You're home. You're safe. That's all that matters right now.\""
+      ],
+      puzzle: null
+    },
+    {
+      narrator: "katerina",
+      text: [
+        "I don't sleep. I sit on the bathroom floor for an hour after Selene finally goes to bed, cataloguing everything in my head the way I've apparently trained myself to catalogue things now — the alibi holds, I tell myself. The story holds. I was here all night. Selene will say so if anyone ever asks, and no one is ever going to ask, because no one is going to find him, not for a long time, not until there's nothing left to identify.",
+        "I keep waiting for the guilt to arrive. It doesn't. I sit there, waiting, testing myself the way you test a bruise to see how deep it actually goes, and what I find instead of guilt is something quieter. Something almost like relief, if relief could feel this hollow.",
+        "My phone buzzes around six. Genevieve. *Are you coming in today? No pressure if you need more time.*",
+        "I stare at the message a long time. Maison Aurelle feels like it belongs to a different woman entirely, someone who cared about hemlines and silk and a Halloway commission that, right now, feels impossibly small and far away.",
+        "*Taking more time,* I type back. *I don't think I'm coming back at all, actually. I'll explain when I can.*",
+        "I don't fully understand, sending that message, what I'm actually deciding. I only know that the version of me who designed dresses for a living has nothing left to say to me anymore."
+      ],
+      puzzle: null
+    },
+    {
+      narrator: "katerina",
+      text: [
+        "Three months pass in a blur I can barely reconstruct now. I don't go back to the studio. I don't see anyone but Selene, who moves through those months with a patience I don't think I've ever properly thanked her for, cooking meals I mostly don't eat, sitting with me through nights I mostly don't sleep through, never once asking me for details about that night I'm not ready to give her.",
+        "\"You don't have to tell me anything,\" she says, one evening, watching me stare at nothing across the kitchen table. \"But Katerina, I need you to actually be here with me. Not just in this apartment. Here. I'm losing you a little more every week and I don't know how to stop it.\"",
+        "\"I'm here.\"",
+        "\"You're not, though. Not really.\" Her voice cracks slightly, which it almost never does. \"I keep waiting for you to come back, and some days I'm scared the version of you that left that night just isn't coming back at all.\"",
+        "I don't have an answer for her. I think, privately, she's right. I think the version of me that left that night genuinely isn't coming back, and some cold, unfamiliar part of me has already started to understand that I don't actually want her to.",
+        "\"Talk to me,\" she says, reaching across the table for my hand. \"Please. Not about that night. Just — anything. I miss hearing your voice actually say something instead of just answering in the fewest words possible.\"",
+        "\"I don't know what to say anymore, Selene. I don't recognize half of what I'm thinking most days.\"",
+        "\"Then tell me that. That's still something. That's still you, talking to me.\""
+      ],
+      puzzle: null
+    },
+    {
+      narrator: "katerina",
+      text: [
+        "I find the ad for the investigator's license course by accident, scrolling through something on my phone at two in the morning because sleep still won't come easily, hasn't come easily in months. Something about it catches at me immediately, some instinct I don't fully examine before I've already clicked through, already reading the requirements, already imagining, with a clarity that surprises me, an entire different life built out of exactly the skills I discovered in myself the week I found that hotel receipt in Julian's jacket pocket.",
+        "\"A private investigator,\" Selene repeats, when I tell her, testing the words the way she tests most decisions of mine before deciding whether to support them. \"Katerina, that's — that's a real pivot. From fashion.\"",
+        "\"I know.\"",
+        "\"Why detective work, specifically? Of everything you could do.\"",
+        "I think about it a long moment before I answer, turning the true reason over carefully, deciding how much of it I'm actually ready to say out loud, even to her. \"Because I spent five years not seeing what was right in front of me,\" I tell her, finally. \"And then I spent eleven days learning how to see everything. I don't want to lose that skill, Selene. I don't want to become someone who can be lied to that easily ever again. And I think — I think if I can learn to do this well, really well, I can make sure other people don't get lied to that easily either.\"",
+        "She studies me for a long moment, something like pride and something like grief moving together across her face. \"Okay,\" she says, finally. \"Then let's get you licensed. And Katerina — I'm coming with you. Whatever this next version of you looks like, I'm not watching it happen from the sidelines.\"",
+        "\"You have your own work, Selene. Whatever it actually is you do behind that architect's badge.\"",
+        "\"My own work leaves plenty of room for this too.\" She squeezes my hand, steady, certain. \"I've watched you become someone new this year, Katerina. I'm not about to let you become her alone.\""
+      ],
+      puzzle: null
+    },
+    {
+      narrator: "katerina",
+      text: [
+        "The licensing exam takes place eight months later, in a gray municipal building that smells like old coffee and older carpet, and I sit through four hours of it with a calm that surprises the proctor enough that she comments on it afterward.",
+        "\"Most people are wrecks by hour two,\" she says, stamping my paperwork. \"You barely looked up.\"",
+        "\"I've had practice staying calm under worse conditions,\" I tell her, and she laughs, not knowing how true it is, and I let her laugh, some cold new part of me already understanding that this particular joke will be one I make often, to people who will never once suspect the real weight underneath it.",
+        "Selene is waiting outside when I finish, pacing the sidewalk despite herself. \"Well?\"",
+        "\"Licensed private investigator, as of eleven minutes ago.\"",
+        "She whoops, loud enough that a passing stranger actually turns to look, and pulls me into a hug fierce enough to lift me half off my feet. \"I'm so proud of you. I know that's a strange thing to say about someone who just legally became a professional snoop, but I mean it completely.\"",
+        "\"It doesn't feel strange to hear,\" I tell her, and I mean that too — for the first time in nearly a year, pride is a feeling I can actually locate in my own chest without having to search for it underneath everything else that's been living there instead."
+      ],
+      puzzle: null
+    }
   ]
 }
 ,
@@ -677,6 +751,74 @@ export const chapters = [
       ],
       puzzle: null
     },
+    {
+  id: 10,
+  title: "Katerina X",
+  unlocked: false,
+  sections: [
+    {
+      narrator: "katerina",
+      text: [
+        "Four years. That's how long it's actually been, though some mornings it feels like both a lifetime and no time at all, the way grief has a way of collapsing distance when you're not paying attention to it.",
+        "I have my own office now, two floors above a tailor's shop on a quiet street I chose specifically because it reminded me of nothing from my old life. *Petrova Investigations* on the glass door, simple black lettering, my own name finally standing alone, answerable to no one else's story but mine.",
+        "\"Another cheating spouse case just came in,\" Selene says, dropping a folder on my desk, still technically working her own cover but spending more time in this office than her actual firm at this point, something neither of us has bothered addressing directly. \"Husband, this time. Wife thinks he's seeing someone from his gym.\"",
+        "\"Let me guess. New soap smell he can't explain.\"",
+        "\"Something like that.\" She sits on the edge of my desk, watching me the way she still does sometimes, checking, always checking, four years on. \"You okay taking this one? I know the pattern gets close sometimes.\"",
+        "\"I'm fine, Selene. It's just a case.\"",
+        "\"It's never just a case with you. You solve them like you're settling a score every single time.\"",
+        "I don't argue with that, because she's not wrong. Every cheating spouse case that walks through that door, I solve with a precision that has nothing to do with professional pride and everything to do with a debt I'll apparently be paying off for the rest of my life."
+      ],
+      puzzle: null
+    },
+    {
+      narrator: "katerina",
+      text: [
+        "I'm good at this. I want to say that plainly, without false modesty, because I earned it — four years of building instincts sharp enough that clients started referring other clients before I'd even finished my first year properly licensed. I read people the way I once read fabric, understanding immediately which lies have structure and which are already fraying at the seams.",
+        "I still think about that night sometimes. Not Julian — Julian I think about the way you think about weather from years ago, distant, factual, stripped of feeling. I think about the stranger instead. The man floating in black water who wasn't drowning, whose eyes, even in the dark, I still remember with a clarity that unsettles me sometimes, pale and unreadable and entirely, strangely calm for a man I'd assumed wanted to die.",
+        "\"You're doing the thing again,\" Selene says, watching me from the doorway of my own office, a knowing look on her face.",
+        "\"What thing.\"",
+        "\"Staring at nothing. You do it every couple of months, always around this time of year. Ever going to tell me what you're actually thinking about?\"",
+        "\"Nothing important.\"",
+        "\"Liar. You're a terrible liar to me specifically, you know that? Everyone else, sure. Me, never.\" She crosses her arms, settling in against the doorframe. \"Fine. Keep your mystery. But for what it's worth, whoever he was — and I know it's a he, your face gets a very specific look — I hope you run into him again someday. Properly this time.\""
+      ],
+      puzzle: null
+    },
+    {
+      narrator: "katerina",
+      text: [
+        "I don't tell her how often I actually think about it, how the memory has settled into something I return to almost like a private ritual, turning it over the way you turn over a stone worn smooth from handling. I don't tell her that some nights, working late in this office, I catch myself wondering what he'd been running from, floating alone in that water at two in the morning, in a city that wasn't his — wondering whether he ever thought about the furious stranger who'd pulled him toward shore and told him, uselessly, to go home and talk to someone.",
+        "I've built a whole life since that night. A career. A reputation. A version of myself who wears black more often than not, who reads a room before she's even finished crossing its threshold, who has never once, in four years, let another man get close enough to lie to her the way Julian did. I am, by every external measure, exactly who I set out to become that Tuesday I decided the world's justice systems weren't built to punish men like him.",
+        "And yet some quiet, unresolved part of me is still standing on those rocks sometimes, watching a stranger's pale eyes track me through the dark, understanding — even now, even four years later, without being able to fully explain why — that whatever happened between us in that water hadn't actually finished happening at all. It had simply paused, the way a held breath pauses, waiting for something neither of us had been ready to name yet."
+      ],
+      puzzle: null
+    },
+    {
+      narrator: "katerina",
+      text: [
+        "\"Katerina.\" Selene's voice pulls me back, gentle. \"Wherever you just went — come back for a second. New case just came in. Client's downstairs.\"",
+        "\"Coming,\" I tell her, standing, straightening the black blazer I've come to think of as something close to armor.",
+        "\"Before you do.\" She hesitates at the door, something careful in her voice now. \"I ran into an old contact last week. Someone who does security work for a few of the private clients I still consult for occasionally. He mentioned something odd — said a firm out of the north had been making discreet inquiries about people in Solmere for years now. Fashion industry contacts. Old friends of yours, actually, from Maison Aurelle.\"",
+        "Something goes very still in my chest. \"Inquiries about who?\"",
+        "\"He wasn't sure exactly. Just that the requests were careful, professional, expensive. The kind of digging you'd pay serious money to keep quiet.\" She watches my face carefully. \"Probably nothing. Could be anyone. But given the timeline he mentioned — it's been going on for years, Katerina. Almost exactly as long as it's been since that night.\""
+      ],
+      puzzle: null
+    },
+    {
+      narrator: "katerina",
+      text: [
+        "I don't answer her right away. Some old, unresolved part of me, the part that's spent four years turning over a memory like a stone worn smooth, understands, with a certainty I can't fully explain, exactly whose inquiries those probably are.",
+        "\"Do you have anything else,\" I ask, keeping my voice carefully level. \"A name. Anything.\"",
+        "\"Nothing solid. My contact said whoever's behind it is thorough enough that even he couldn't trace it past two layers of shell arrangements.\" She studies me, something sharpening in her expression now, the old instinct that's kept us both alive through worse than this. \"Katerina. If someone's been quietly investigating you for four years, that's not a coincidence I'm comfortable ignoring, whatever else it might turn out to be.\"",
+        "\"I know.\"",
+        "\"Do you want me to dig into it properly? I can call in a few favors, push harder than my contact was willing to on a casual ask.\"",
+        "I think about the water. I think about pale, unreadable eyes tracking me through the dark, a stranger who let me pull him toward shore without ever once correcting my assumption about why he was floating there at all. \"Not yet,\" I tell her, finally. \"Let me sit with it a little longer first.\"",
+        "\"Send the client up,\" I say, my voice steadier than I feel. \"We'll talk about the other thing later.\"",
+        "She studies me a moment longer, clearly unconvinced, but nods and disappears down the stairs, and I'm left alone in my office, black blazer straightened, heart beating harder than a routine Tuesday morning has any right to cause, wondering, for the first time in four years, whether the pause I've been living inside is finally, quietly, about to end."
+      ],
+      puzzle: null
+    }
+  ]
+},
     {
       narrator: "adhirikht",
       text: [
