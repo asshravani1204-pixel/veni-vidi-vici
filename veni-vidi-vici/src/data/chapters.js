@@ -1795,5 +1795,476 @@ export const chapters = [
       puzzle: null
     }
   ]
+},
+{
+  id: 204,
+  title: "Season 2 — IV",
+  unlocked: false,
+  sections: [
+    {
+      narrator: "katerina",
+      text: [
+        "There's a man who's been showing up at the café more than feels natural — mid-thirties, expensive watch, the kind of practiced charm that usually means a person's used to getting what he wants without much resistance. His name is Dorian, or so he tells me the third time he manages to angle himself into the seat across from mine, uninvited, smiling like the seat was always his to take.",
+        "\"You're the detective, aren't you,\" he says, that third time, leaning in with an ease that grates immediately. \"I've heard about you. Petrova Investigations. Impressive, for someone your age.\"",
+        "\"I'm working,\" I tell him, not looking up from my case notes, the same deflection that's worked a hundred times before on men exactly like him.",
+        "\"Everyone's always working. Have dinner with me anyway. I promise I'm more interesting than whatever's in that folder.\"",
+        "\"I doubt that.\"",
+        "He laughs, unbothered, the laugh of a man who's never once had a woman's disinterest actually register as final. \"I'll wear you down eventually. I'm patient.\"",
+        "I don't notice, that afternoon, the black car parked across the street, windows tinted, engine idling far longer than any legitimate errand would require."
+      ],
+      puzzle: null
+    },
+    {
+      narrator: "katerina",
+      text: [
+        "Dorian doesn't come back to the café the following week. Or the week after. I don't think much of it at first — men like that usually do wear themselves out eventually, moving on to easier targets once the persistence stops being fun.",
+        "It's Selene who mentions it, almost in passing, a few weeks later, some detail she picked up through her own strange web of contacts. \"You remember that guy who kept bothering you at the café? Dorian something?\"",
+        "\"Vaguely. Why?\"",
+        "\"Apparently he just... left the city. Suddenly. No notice at his job, no forwarding address, nothing. His business partner's been asking around, worried something happened to him.\" She watches my face carefully as she says it. \"Strange timing, don't you think? Right after he wouldn't stop hovering around you.\"",
+        "Something cold moves through my chest, quick and quiet. \"You think that's connected to me?\"",
+        "\"I don't know what I think yet. I just think it's worth noticing.\" She doesn't push further, but I catch her watching me with a new kind of attention over the following days, the particular vigilance she reserves for things she hasn't fully solved yet.",
+        "\"You've been distracted lately too,\" she adds, studying me over her coffee the next morning, careful in the way she gets when she's building toward a real question rather than idle conversation. \"More than usual. Is this about the mystery man, or about Dorian, or both?\"",
+        "\"I don't know,\" I admit, which is the most honest answer I have. \"I keep telling myself it's not connected. I'm not sure I believe myself.\""
+      ],
+      puzzle: null
+    },
+    {
+      narrator: "katerina",
+      text: [
+        "I ask Adhirikht about it directly, the next time he shows up at my office unannounced, because directness has always worked better with him than circling.",
+        "\"Do you know anything about a man named Dorian? Used to bother me at the café. He's disappeared.\"",
+        "Something in his expression doesn't change at all, which is itself an answer, in the specific way his total stillness has started functioning as a tell I've learned to read over two years. \"Should I know something about that?\"",
+        "\"That's not an answer.\"",
+        "\"People leave cities, Katerina. It happens constantly, for a hundred ordinary reasons that have nothing to do with anyone.\"",
+        "\"You didn't answer the question.\"",
+        "He holds my eyes a long moment, something unreadable and very still behind them. \"I don't know what happened to him,\" he says, finally, and I want to believe it, want it badly enough that some part of me decides, against every instinct I've spent four years building professionally, to let the answer be enough.",
+        "\"You're a strange man, Adhirikht.\"",
+        "\"I've been told.\" A ghost of something almost like a smile, there and gone. \"Does it bother you? The strangeness?\"",
+        "\"I haven't decided yet.\" And that, at least, is entirely true — four years of reading liars for a living, and I genuinely cannot tell, sitting across from him, whether I'm looking at an innocent man or the most convincing liar I've ever encountered."
+      ],
+      puzzle: null
+    },
+    {
+      narrator: "adhirikht",
+      text: [
+        "She asked me about him directly, which I respected, even as I gave her an answer that wasn't quite a lie and wasn't quite the truth either. People leave cities constantly. Dorian simply left this one with considerably more urgency than most, and considerably less of himself intact than he'd have preferred, given the specific nature of the conversation we had before he departed.",
+        "I don't regret it. I want that understood plainly. A man who spent three separate afternoons attempting to wear down a woman's clearly stated disinterest, who watched her deflect him repeatedly and interpreted each deflection as a puzzle to solve rather than an answer to respect — that man forfeited any claim to gentle treatment the moment he sat down at her table uninvited a third time.",
+        "\"You're going to have to be more careful,\" Dimitri told me, after, when the details reached him the way details always eventually reach him. \"She's a detective, Adhirikht. She notices patterns for a living. Men vanishing around her is not a pattern that stays invisible forever.\"",
+        "\"I'm aware.\"",
+        "\"Are you going to stop?\"",
+        "I considered the question honestly before answering, because Dimitri deserves honesty even when the honest answer is inconvenient. \"No,\" I told him. \"I'm going to get better at making certain it never traces back to me. But I am not capable of watching another man attempt to take something I've already decided is mine, and doing nothing about it.\""
+      ],
+      puzzle: null
+    },
+    {
+      narrator: "adhirikht",
+      text: [
+        "\"You're building a habit that's going to catch up with you eventually,\" Dimitri said, watching me with the particular weariness he reserves for conversations he already knows he won't win. \"How many men has it been now, since Solmere started mattering to you?\"",
+        "\"I haven't been counting.\"",
+        "\"I have.\" He said it flatly, no judgment exactly, more a simple accounting of fact. \"Three, that I know of. Possibly more you haven't mentioned.\"",
+        "\"Each of them earned it.\"",
+        "\"I don't doubt that. I'm not questioning whether they earned it. I'm questioning whether you've considered what happens the day she puts the pattern together herself, with that detective's mind of hers, and understands exactly what kind of man has been quietly clearing her path of anyone who inconveniences him.\"",
+        "I hadn't considered it, not fully, not with the weight it deserved. \"She wouldn't stay,\" I admitted, the thought landing heavier than I expected it to. \"If she understood the full truth of what I am.\"",
+        "\"Then perhaps that's worth factoring into how many more men you're willing to make disappear on her behalf,\" Dimitri said, quiet, not unkind, though the honesty of it sat uncomfortably regardless."
+      ],
+      puzzle: null
+    },
+    {
+      narrator: "katerina",
+      text: [
+        "I start a file on him. I don't tell Selene, don't tell anyone, some old professional instinct simply refusing to stay dormant any longer once the Dorian coincidence lodges itself somewhere I can't quite dislodge it from.",
+        "What I find is almost nothing, which is itself the most unsettling finding of all. No public records of significant wealth, despite a coat that cost more than my last three paychecks combined and a habit of appearing in buildings I later discover, through a property records search that takes me most of a Sunday afternoon, are quietly, entirely owned by shell companies that all trace back, eventually, through four separate layers of obfuscation, to holdings I can't fully untangle no matter how many hours I spend trying.",
+        "A man this careful about hiding his money is either laundering something significant, or protecting something significant, and four years of this work has taught me that the two are rarely as different from each other as people like to believe.",
+        "I close the file eventually, unfinished, unable to decide whether I want to keep pulling the thread or whether some self-protective instinct is right to leave it exactly where it is."
+      ],
+      puzzle: null
+    }
+  ]
+},
+{
+  id: 205,
+  title: "Season 2 — V",
+  unlocked: false,
+  sections: [
+    {
+      narrator: "selene",
+      text: [
+        "I've known Katerina Petrova since we were nine years old, since a school hallway and a bully who thought a small, loud girl in a crooked cardigan was an easy target, and I have spent every year since that day cataloguing the particular ways her face changes depending on what's actually happening underneath it. I know her better than I know myself, most days. I have earned the right to say that.",
+        "So I notice, before she does, that she's starting to laugh again the way she used to laugh before Julian — the full, unguarded, slightly too-loud laugh that used to embarrass her in restaurants when we were nineteen, the one that vanished so completely after the hospital that I genuinely wondered, some nights, whether it was gone for good.",
+        "It comes back in pieces, over these two years, always attached to some story about him. \"He showed up at the office covered in what I'm fairly sure was flour,\" she tells me one evening, laughing before she's even finished the sentence, \"wouldn't explain why, just handed me a pastry and left like nothing happened.\"",
+        "\"You're glowing,\" I tell her, watching her closely.",
+        "\"I am not.\"",
+        "\"Katya. You are radiant right now, telling a story about a man covered in flour. I need you to hear how that sounds.\"",
+        "She waves me off, still smiling, and I let her, because pushing too hard has never once worked on Katerina Petrova, and because some part of me is simply relieved, watching this particular light come back into her face after four years of carefully monitoring its absence."
+      ],
+      puzzle: null
+    },
+    {
+      narrator: "selene",
+      text: [
+        "It's different than it was with Julian. I want to be precise about that, because I've thought about the distinction a great deal, watching her these past two years, trying to understand exactly what's shifted.",
+        "With Julian, she performed happiness, mostly — a bright, effortful cheerfulness I watched her maintain even in the months I suspected something was wrong, before either of us had proof. She smiled for him the way you smile for a photograph, aware of the audience, careful about the angle.",
+        "This is different. She doesn't perform anything when she talks about Adhirikht. She simply forgets to guard her face, the way people forget things they've stopped needing to remember on purpose. She rolls her eyes telling me about his latest overprotective stunt and means the eye roll completely, and underneath it, unmistakably, unhidden even from herself half the time, there's something soft and real that I haven't seen on her since she was twenty years old and hopelessly, foolishly in love for the first time.",
+        "\"He gave his coat to a stranger on the street last week,\" she tells me, mock-exasperated, \"some elderly man shivering at a bus stop, just took it off and handed it over like it cost nothing, and then acted completely normal about it, like I was the strange one for being surprised.\"",
+        "\"That's — Katya, that's genuinely sweet.\"",
+        "\"It's infuriating is what it is. He does things like that constantly and then acts like it's nothing, like I'm not allowed to make a big deal out of it.\" But she's smiling the entire time she says it, and I understand, watching her, that the infuriation is its own kind of tenderness, a woman who's forgotten how to simply enjoy being cared for without immediately needing to armor herself against it."
+      ],
+      puzzle: null
+    },
+    {
+      narrator: "selene",
+      text: [
+        "I worry about him anyway. I want that on the record too, because I love her too much not to hold both truths at once — that whatever he's doing for her is real and good and worth protecting, and that a man this careful about his own money, this comfortable with the idea of men simply vanishing, this unwilling to give her a single concrete detail about his actual life, is not a man I can fully trust just because he makes my best friend laugh again.",
+        "\"You should be careful,\" I tell her, more than once, watching the words land somewhere she doesn't fully want to hear them.",
+        "\"I know.\"",
+        "\"Do you, though? Katya, you spent five years not seeing what was right in front of you once already. I need to know you're actually watching this time, not just letting yourself be swept up because it feels good after everything.\"",
+        "\"I'm watching,\" she tells me, and something in her voice, steadier than the joke she'd been making moments earlier, makes me believe her. \"I started a file on him, actually. Didn't find much. That should probably worry me more than it does.\"",
+        "\"Katya.\"",
+        "\"I know.\" She meets my eyes, and for a moment the old, careful detective is fully present again, underneath the woman who laughs about flour-covered surprise visits. \"I'm not stupid, Selene. I know something doesn't add up about him. I just haven't decided yet whether I care.\"",
+        "I don't have a good answer for that, sitting across from her, watching two entirely true things exist in her at once — a woman finally, genuinely happy for the first time in four years, and a woman standing knowingly at the edge of something she still can't fully see the bottom of. I just reach over and squeeze her hand, the way I always have, and hope, quietly, that whatever this actually turns out to be, it doesn't cost her as much as the last one did."
+      ],
+      puzzle: null
+    },
+    {
+      narrator: "selene",
+      text: [
+        "I think about the girl she was at twenty, the one I watched fall for Julian's easy smile at a party neither of us had any real reason to attend, and I think about how differently she's falling this time — slower, warier, one careful step at a time instead of the headlong tumble that cost her everything before. There's a wisdom in her now that wasn't there then, a woman who checks the ground before she trusts it fully, and I find myself, watching her, feeling something close to relief even inside the worry.",
+        "\"He makes you feel safe,\" I say to her one evening, not quite a question, testing the shape of it out loud.",
+        "\"He does,\" she admits, quiet, like the admission costs her something. \"I don't fully understand why. He's strange, and secretive, and I have a file on my computer that raises more questions than it answers. But when he's actually here, in the room, I don't feel like I need to brace for anything. I haven't felt that in four years, Selene. Not once, with anyone.\"",
+        "\"That matters,\" I tell her, and I mean it, even with every reservation still sitting unresolved in my chest. \"That matters more than most things do, honestly.\"",
+        "\"I know.\" She smiles, small and real, the kind she used to give away freely before she learned how expensive freely given things can turn out to be. \"I just wish it came with fewer unanswered questions attached.\"",
+        "\"Don't we all,\" I say, and let the conversation rest there, watching my oldest friend carry both her happiness and her caution in the same two careful hands, hoping, more than I've hoped for almost anything, that this time the ground actually holds."
+      ],
+      puzzle: null
+    }
+  ]
+},
+{
+  id: 206,
+  title: "Season 2 — VI",
+  unlocked: false,
+  sections: [
+    {
+      narrator: "katerina",
+      text: [
+        "My heel snaps clean off on a crack in the pavement two blocks from a client meeting I'm already running late for, and I stand there for a full three seconds just staring down at it in disbelief, as though sheer refusal to accept the situation might somehow un-happen it.",
+        "\"Oh, you have got to be kidding me.\"",
+        "I call Selene immediately, phone pressed to my ear while I balance awkwardly on one shoe like some kind of confused flamingo. It rings four times and goes to voicemail. I try again. Same result. Selene not picking up on the first try usually means she's buried in something for her own actual work, the kind of deep-cover focus that makes her genuinely unreachable for hours at a time, and I know from experience that calling a third time won't change that.",
+        "\"Fantastic,\" I mutter, staring at the broken heel like it personally betrayed me. \"Absolutely fantastic.\"",
+        "I consider my options. A shoe repair shop is fifteen minutes away in the wrong direction. Walking on one broken heel is somehow worse than walking on none at all, an uneven lopsided disaster that's already threatening to roll my ankle with every step. So I do the only thing that makes any sense at all, standing on a sidewalk in a work dress with a dead phone call and a meeting I'm now genuinely going to be late for.",
+        "I take off both shoes and start walking barefoot."
+      ],
+      puzzle: null
+    },
+    {
+      narrator: "katerina",
+      text: [
+        "The pavement is cold and slightly damp from an earlier rain, gritty in a way that makes me wince with nearly every step, and I am muttering a fairly impressive stream of curses under my breath by the time I pass the restaurant on the corner — the nice one, the one with the actual white tablecloths, the kind of place that requires reservations weeks in advance.",
+        "And there, through the window, unmistakably, is Adhirikht.",
+        "Sitting across from a woman. An elegant, composed, clearly very put-together woman in a dress that costs more than my entire closet, leaning in slightly across the table with the specific body language of someone comfortable in expensive restaurants and expensive company.",
+        "I stop walking. I don't mean to. My feet just stop, entirely on their own, shoes dangling forgotten from one hand, and something hot and immediate and thoroughly unwelcome twists low in my stomach.",
+        "\"It's a business meeting,\" I tell myself, out loud, apparently, because a passing stranger gives me a strange look. \"It's obviously a business meeting. He has business meetings. That's a normal thing for a person to have. I don't even care. I am not standing here barefoot on a public sidewalk caring about who Adhirikht Volkov has lunch with.\"",
+        "I am, very clearly, standing here barefoot caring enormously.",
+        "\"Ridiculous,\" I mutter, glaring now, unable to stop myself, glaring directly through the restaurant glass at a conversation I have absolutely no right to any opinion about whatsoever. \"Completely ridiculous. I don't even like him like that. This is fine. Everything about this is fine.\""
+      ],
+      puzzle: null
+    },
+    {
+      narrator: "katerina",
+      text: [
+        "That's the exact moment he looks up.",
+        "I watch it happen in something close to slow motion — his eyes finding the window, finding me, and his entire expression shifting in the span of half a second from polite, distant attentiveness to something else entirely, something sharp and immediate that has him rising from his chair mid-sentence, napkin dropping unceremoniously to the table, before I've even fully processed that he's noticed me at all.",
+        "\"Oh no,\" I say, to no one, already backing up a step. \"No, absolutely not, do not—\"",
+        "He's out the door in under ten seconds, crossing the space between us like the sidewalk personally owes him speed, and I have exactly enough time to register the specific horror of being caught barefoot and glaring before he's directly in front of me, eyes doing a rapid, thorough sweep down to my feet and back up again.",
+        "\"What happened.\"",
+        "\"My heel broke. I'm fine. Go back to your lunch.\"",
+        "\"You're barefoot. On a public sidewalk.\"",
+        "\"I'm aware of my own feet, Adhirikht.\"",
+        "He doesn't answer that. He simply, without any further discussion whatsoever, bends down and scoops me directly off the ground, one arm under my knees, the other solid across my back, and starts walking, purposeful and entirely unbothered by my immediate, sputtering protest."
+      ],
+      puzzle: null
+    },
+    {
+      narrator: "katerina",
+      text: [
+        "\"Put me down. Put me down right now, I mean it—\"",
+        "\"You're bleeding slightly, on the side of your foot. I can see it from here.\"",
+        "\"That is not a reason to carry me like a sack of flour through a public street—\"",
+        "\"I disagree entirely.\"",
+        "I actually try to bite him, genuinely, snapping toward his shoulder in pure reflexive outrage, and he just shifts his grip slightly, entirely unbothered, like this happens to him regularly, which, given everything I've learned about him, it possibly does.",
+        "\"Did you seriously just try to bite me.\"",
+        "\"You deserved it.\"",
+        "\"Noted,\" he says, entirely too calm, carrying me directly back through the restaurant's front door, past a startled hostess, past several diners who have all, without exception, turned to watch this unfold, straight back to the table where the elegant woman is now watching with an expression somewhere between amusement and genuine confusion.",
+        "He sets me down carefully in the empty chair beside his own, and I fold my arms, chin up, and decide, right there, that I am done speaking to him for the remainder of this entire ordeal."
+      ],
+      puzzle: null
+    },
+    {
+      narrator: "katerina",
+      text: [
+        "\"This is Elena,\" he says, gesturing vaguely at the woman, who's watching the whole scene unfold with visible, barely-contained delight. \"My import contract negotiator. Elena, this is—\"",
+        "\"I can introduce myself,\" I say, sharp, not looking at either of them, staring instead at the tablecloth like it's personally responsible for my current situation.",
+        "\"Are you upset with me,\" Adhirikht asks, and I can hear, even without looking at him, the genuine confusion in his voice, a man entirely unequipped to understand what he's done wrong.",
+        "I don't answer. I keep my arms crossed, my gaze fixed firmly on the tablecloth, and let the silence do whatever work it needs to do.",
+        "\"Katerina.\"",
+        "Nothing.",
+        "\"You're bleeding. Let me at least look at your foot.\"",
+        "I turn my whole body slightly away from him instead, toward Elena, toward the window, toward anything that isn't his face, and I hear him exhale, slow, clearly baffled, entirely out of his depth in a way I don't think this particular man has been out of his depth in a very long time."
+      ],
+      puzzle: null
+    },
+    {
+      narrator: "katerina",
+      text: [
+        "He fusses over me for the next ten minutes regardless of the silent treatment, flagging down a waiter for a first aid kit, cleaning the small cut on my foot himself with a gentleness that makes it very difficult to maintain my righteous fury, ordering me food I didn't ask for, draping his own jacket over my shoulders because apparently my bare feet mean I'm cold everywhere now, all while I continue to say absolutely nothing, staring resolutely at a point somewhere past his left ear.",
+        "\"I don't understand what I've done,\" he finally says, quiet, genuinely troubled by it, kneeling slightly to check the small bandage he's just applied. \"Please, Katerina. Tell me what's wrong so I can fix it.\"",
+        "I hold out another full minute of silence, just to make him suffer properly for it, before I finally, coolly, deliver the line I've been sitting on since the sidewalk.",
+        "\"Oh? Why don't you check her foot?\"",
+        "The silence that follows is genuinely delicious. I watch it land on him in real time — confusion first, then something shifting, then, slowly, dawning comprehension crossing his entire face like a sunrise happening in reverse.",
+        "\"You're jealous,\" he says, and there's something in his voice I've never heard from him before, something almost wondering.",
+        "\"I am not.\"",
+        "\"You are. You're jealous of Elena.\"",
+        "\"I genuinely do not care who you have lunch with, Adhirikht.\""
+      ],
+      puzzle: null
+    },
+    {
+      narrator: "adhirikht",
+      text: [
+        "I have negotiated territory disputes between families that hated each other for generations. I have ended men's lives without my pulse changing. I have never, in thirty-five years, felt anything quite like the specific, absurd joy of watching Katerina Petrova sit across from me, arms crossed, cheeks slightly flushed, absolutely refusing to admit she's jealous of a business associate twice her senior who has been happily married for over a decade.",
+        "\"Elena has a wife,\" I tell her, unable to keep the smile fully off my face. \"Her name is Bianca. They've been together eleven years.\"",
+        "Katerina's expression does something complicated, caught between relief and fresh outrage at having been caught at all. \"That's not the point.\"",
+        "\"What is the point, then.\"",
+        "\"The point is you carried me through a restaurant like some kind of caveman without asking, and now you're smiling at me like this is funny.\"",
+        "\"It is a little funny.\"",
+        "\"Adhirikht.\"",
+        "\"I apologize,\" I say, and mean it, mostly, though I suspect the smile hasn't fully left my face regardless. \"For the carrying. Not for checking on you the moment I saw you standing barefoot outside my window looking like you wanted to commit several forms of violence against me for reasons I still don't entirely understand.\"",
+        "\"You don't need to understand it.\"",
+        "\"I'd like to, eventually.\" I reach over, careful, and she doesn't pull away this time, some of the fight finally draining out of her posture. \"For what it's worth, moya buryushka — there has never once, in two years, been anyone else at any table I've sat at that I've actually wanted there instead of you.\"",
+        "She doesn't have a response for that, not immediately, and I watch, with a satisfaction I don't bother hiding, the particular pink that rises in her cheeks that has nothing at all to do with anger."
+      ],
+      puzzle: null
+    },
+    {
+      narrator: "dimitri",
+      text: [
+        "I hear about the entire incident secondhand, three days later, from a source at the restaurant who apparently found the whole scene memorable enough to mention unprompted, and I laugh harder than I have in months hearing it recounted in full — the barefoot glaring, the mid-lunch rescue, the attempted bite.",
+        "\"You carried her through a restaurant,\" I say, when Adhirikht finally returns to the estate, still visibly pleased with himself in a way I've rarely seen from him. \"In front of Elena. In front of the entire dining room.\"",
+        "\"She was barefoot and bleeding.\"",
+        "\"She was jealous, from what I've heard, and you found that delightful rather than concerning.\"",
+        "\"I found it informative,\" he says, and there's something in his face, some quiet, settled certainty I haven't seen from him before this particular woman entered his life. \"She wouldn't be jealous over nothing, Dimitri. Whatever she's telling herself this is, some part of her already understands it's more than that.\"",
+        "I don't argue with him. I simply file the story away with all the others I've been collecting these past two years, and understand, watching him, that whatever careful architecture he's spent eighteen years building around himself has been, quietly and completely, rearranged around one furious, barefoot woman who apparently once tried to bite him in the middle of a public street — and that he has never, in all the years I've known him, looked half as happy about anything as he does telling me about it now."
+      ],
+      puzzle: null
+    }
+  ]
+},
+{
+  id: 207,
+  title: "Season 2 — VII",
+  unlocked: false,
+  sections: [
+    {
+      narrator: "katerina",
+      text: [
+        "I'm smiling at my phone. I realize this only because Selene is standing directly in front of my desk, arms crossed, watching me with an expression that says she's been standing there for longer than I'd like.",
+        "\"What,\" I say, locking the phone immediately, too late, obviously too late.",
+        "\"You were smiling. At your phone. Like a teenager.\"",
+        "\"I was not.\"",
+        "\"Katya. I watched it happen. Full face, both dimples, the works. What did he send you?\"",
+        "\"Nothing important.\"",
+        "\"Show me.\"",
+        "\"Absolutely not.\"",
+        "She rounds the desk with the particular determined energy she gets when she's decided something is happening whether I agree to it or not, and I hold the phone out of reach on pure reflex, which only makes her more determined, both of us dissolving into something that hasn't happened between us in years — actual, undignified scuffling over a phone like we're fourteen again, fighting over who gets to read a note passed in class."
+      ],
+      puzzle: null
+    },
+    {
+      narrator: "katerina",
+      text: [
+        "She gets it eventually, mostly because I'm laughing too hard to properly defend myself, and reads the message out loud in a deliberately dramatic voice before I can stop her.",
+        "\"'Moya buryushka. There is a specific kind of pastry here that reminded me of you — difficult, sharp-edged, and somehow still the best thing I encountered all day.' Katya.\" She lowers the phone slowly, staring at me with an expression somewhere between delight and disbelief. \"He compared you to a difficult pastry and it's the most romantic thing I've ever read.\"",
+        "\"It's not romantic, it's an insult wrapped in a compliment, which is basically his entire personality.\"",
+        "\"You're blushing.\"",
+        "\"I am not blushing, it's warm in here.\"",
+        "\"It is sixty-two degrees in this office, Katerina Petrova, and you are blushing so hard I can see it from across the room.\" She sets the phone down, grinning now, fully enjoying herself in a way she clearly has no intention of stopping any time soon. \"I haven't seen you like this since we were twenty. Do you understand that? Since before everything.\"",
+        "\"Selene—\"",
+        "\"I'm not trying to make you uncomfortable. I'm trying to tell you it's genuinely nice to watch. That's all. You get to have this. Whatever this actually is.\""
+      ],
+      puzzle: null
+    },
+    {
+      narrator: "katerina",
+      text: [
+        "\"He called three times yesterday,\" I admit, mostly because the teasing has softened into something gentler now, something that makes confession feel safer than defense. \"Three times, Selene. About nothing. Just to talk. I don't think anyone's called me three times in one day just to talk since I was a teenager.\"",
+        "\"What did you talk about?\"",
+        "\"Nothing. Everything. I don't even remember half of it. He told me some story about a business rival years ago, something about outmaneuvering someone at a negotiation, and I was fully invested in it like it was the most interesting thing I'd ever heard, and it was genuinely just a story about a shipping contract.\"",
+        "\"That's called being smitten, Katya. That's the actual clinical term.\"",
+        "\"I am not smitten.\"",
+        "\"You listened to a shipping contract story for entertainment. There's a word for that and it isn't professional interest.\" She's grinning wider now, clearly delighted at having caught me in the act of being, undeniably, completely gone for a man I still haven't fully admitted anything about out loud.",
+        "\"Fine,\" I say, finally, throwing up my hands. \"Fine. Maybe I like him. A little. Are you happy?\"",
+        "\"Ecstatic,\" she says, and pulls me into a hug I don't fight at all, laughing into her shoulder, feeling, for the first time in longer than I can name, genuinely, uncomplicatedly light."
+      ],
+      puzzle: null
+    },
+    {
+      narrator: "katerina",
+      text: [
+        "\"So when do I get to meet him,\" Selene asks later, once we've both settled back into something resembling professional composure, though she's still watching me with a lingering, satisfied grin she doesn't seem interested in dropping.",
+        "\"Soon,\" I say, though I don't fully know what soon means, or why some part of me keeps quietly delaying it, some instinct I haven't fully examined telling me that once those two worlds touch, something about the strange, floating unreality of this whole thing will become permanent in a way I'm not entirely ready for yet.",
+        "\"You keep saying soon.\"",
+        "\"I mean it this time.\"",
+        "\"You've meant it the last four times too.\" She studies me for a moment, something more serious moving underneath the teasing now. \"Are you scared of something, Katya? Is that what the delay actually is?\"",
+        "I consider the question longer than I mean to. \"Maybe,\" I admit, finally. \"I don't know what I'm scared of, exactly. Just that once you two are in the same room, this becomes something real enough that I can't quietly pretend it's still just a strange, wonderful accident I haven't fully committed to yet.\"",
+        "\"Katya. It's already real.\"",
+        "\"I know,\" I tell her, and I do know it, even as some stubborn, self-protective part of me keeps finding reasons to postpone the moment it stops being possible to pretend otherwise."
+      ],
+      puzzle: null
+    },
+    {
+      narrator: "adhirikht",
+      text: [
+        "Dimitri physically appears at my hotel in Solmere on the eleventh consecutive day of what was supposed to be a three-day business trip, standing in the doorway of my suite with the specific expression of a man who has run out of patience through the entirely reasonable channel of watching an empire quietly run itself while its leader remains distracted by pastries and phone calls two countries away.",
+        "\"We're leaving,\" he says, without preamble. \"Today. Pack your things.\"",
+        "\"I have things to finish here.\"",
+        "\"You have nothing to finish here, Adhirikht. Your business concluded nine days ago. Every single thing you've done since has been an elaborate excuse to remain in this city breathing the same air as a woman who thinks you're here for shipping contracts.\" He crosses his arms, entirely unmoved by whatever protest I'm preparing. \"Kastralia needs you. There are three territorial disputes I've been managing alone that genuinely require your attention, not mine.\"",
+        "\"I'll return in a few days.\"",
+        "\"You said that eight days ago.\" He shakes his head, something between exasperation and genuine, helpless amusement. \"Pack your bags. I'm not leaving this hotel room without you in it.\""
+      ],
+      puzzle: null
+    },
+    {
+      narrator: "adhirikht",
+      text: [
+        "I go, eventually, because Dimitri is right, and because some part of me understands, even mid-protest, that an empire genuinely cannot run on my absence indefinitely, however much I've been quietly, thoroughly enjoying that absence these past two weeks.",
+        "The teasing begins the moment we're airborne and does not stop for the entire two-hour flight.",
+        "\"Tell me about the pastry comparison,\" Dimitri says, entirely too pleased with himself, having apparently heard the full story from someone on my own staff who clearly cannot be trusted with information anymore. \"You compared a grown woman to a difficult pastry and considered this romantic.\"",
+        "\"It was accurate.\"",
+        "\"It was insane, Adhirikht. Devastatingly, wonderfully insane. I want that on record. The most feared man in this hemisphere, sending a woman poetry about baked goods.\"",
+        "\"It wasn't poetry.\"",
+        "\"It was absolutely poetry. Terrible poetry, but poetry nonetheless.\" He's grinning the entire flight, unable to fully contain himself, occasionally breaking into actual laughter at intervals that suggest he's simply replaying the pastry line internally for his own private amusement."
+      ],
+      puzzle: null
+    },
+    {
+      narrator: "adhirikht",
+      text: [
+        "\"You called her three times yesterday,\" he continues, once we've landed, once we're in the car back toward the estate, clearly not remotely finished. \"Three times. About what, exactly?\"",
+        "\"Business.\"",
+        "\"You told her a shipping contract story, Adhirikht. I have that on excellent authority.\" He's watching me now with genuine, delighted disbelief. \"You bored a room full of hardened negotiators to actual tears with that exact story eight months ago, and you told it to her like it was captivating.\"",
+        "\"She seemed interested.\"",
+        "\"She's in love with you. Of course she seemed interested. You could recite a tax code to that woman and she'd hang on every word at this point, the same way you'd apparently listen to her narrate paint drying if she asked you to.\" He shakes his head, still grinning, genuine warmth underneath the mockery now. \"I've never seen you like this. Eighteen years, Adhirikht. I didn't think this version of you existed.\"",
+        "\"Neither did I,\" I admit, and something in my own voice surprises me — steady, unguarded, entirely unbothered by how thoroughly he's enjoying my transformation. \"I find I don't mind it nearly as much as I expected to.\"",
+        "\"Good,\" he says, quieter now, some of the teasing settling into something more sincere. \"Because I don't think you could go back to the way you were before her even if you wanted to. And for what it's worth, Adhirikht — I don't think you want to.\"",
+        "He's right, of course. He usually is. I spend the rest of the drive back to the estate staring out the window at familiar forest, already, helplessly, counting the hours until I have a legitimate reason to return south again."
+      ],
+      puzzle: null
+    }
+  ]
+},
+{
+  id: 208,
+  title: "Season 2 — VIII",
+  unlocked: false,
+  sections: [
+    {
+      narrator: "katerina",
+      text: [
+        "\"Tell me everything,\" Selene says, sliding into the booth across from me at Varenna Street, two glasses of wine already ordered before I've even sat down properly. \"The real story. Not the flour incident, not the pastry texts. How you actually met him. Start to finish.\"",
+        "I've been putting this off for two years, I realize, turning my glass slowly on the table, some part of me understanding that telling it out loud makes it real in a way I haven't been ready for. But something about tonight — the wine, the familiar crooked awning above us, Selene's patient, waiting face — finally loosens whatever's been holding the story back.",
+        "\"It was the night I killed him,\" I say, quiet, and watch her go very still. \"Julian. The night at the water. I told you it was done, that it was handled. I never told you what happened after.\""
+      ],
+      puzzle: null
+    },
+    {
+      narrator: "katerina",
+      text: [
+        "I stood at the edge of the black tide for a long time that night, breathing hard, and that's when I saw him. Another shape in the water, further out, entirely motionless, arms spread, face turned up toward a moonless sky. My first thought was pure animal panic. Someone's drowning.",
+        "I didn't think. I just moved, waded in, swam hard toward a total stranger. He didn't react when I reached him, just turned his head slightly, and I got my first look at his face in the dark — a scar running from eyebrow to cheek, eyes so pale they looked almost silver in the black water.",
+        "\"Are you insane?\" I hauled him toward the shallows, furious, terrified, adrenaline making my voice sharp. \"It's two in the morning. What are you doing out here alone?\"",
+        "\"I wasn't drowning,\" he said, low, unbothered.",
+        "\"You were floating face-up in freezing water alone in the middle of the night. Forgive me for assuming the worst.\"",
+        "I scolded him properly, Selene. Full lecture, the kind I'd give a stranger doing something reckless and stupid, and he just stood there in the water watching me with an expression I couldn't read at all. I told him to go home, to talk to someone, and I swam back to shore and walked away without looking back."
+      ],
+      puzzle: null
+    },
+    {
+      narrator: "katerina",
+      text: [
+        "\"That was it? That was the whole first meeting?\" Selene's eyes are wide, wine forgotten in front of her.",
+        "\"I thought so too. I never expected to see him again.\" I turn the glass another slow rotation. \"Then, about a year later, I ran into him at a gallery opening I only attended because a client insisted. He acted like he barely remembered me at first, which annoyed me more than I want to admit, and then somehow we ended up talking for two hours straight and I missed half the actual event.\"",
+        "\"A year later. That's a strange gap.\"",
+        "\"I know. I didn't think much of it at the time — Solmere's smaller than it feels, coincidences happen.\" I don't tell her, because I don't fully know it myself yet, how carefully that particular gallery opening had been arranged, how the client who insisted I attend had connections I'd never once thought to trace. \"After that, he just — kept appearing. The café. My building. Restaurants I happened to be at. I genuinely thought it was Solmere being Solmere, until I started getting messages from a number I didn't recognize.\"",
+        "\"Messages saying what?\"",
+        "\"Nothing dramatic at first. Just — observations. 'You looked tired today.' 'That gallery had terrible lighting for the pieces it was showing.' I blocked the number within a week. New number showed up three days later. I blocked that one too.\"",
+        "\"How many times did this happen?\"",
+        "I actually laugh, remembering it now. \"Six times, Selene. Six different numbers. I started keeping a tally, mostly out of pure stubborn spite. And then, on the seventh, the message just said, 'This is my personal number. I have exactly one. Block it if you want, but I'd rather you didn't.' And I don't know why, but I didn't block that one.\""
+      ],
+      puzzle: null
+    },
+    {
+      narrator: "katerina",
+      text: [
+        "Selene is quiet for a long moment, something working behind her eyes that I recognize, distantly, as the same careful calculation she brings to actual cases. \"Katya. Six different phone numbers in a matter of weeks. That's not persistence. That's resources.\"",
+        "\"I know how it sounds.\"",
+        "\"Do you? Because it sounds like a man who doesn't just happen to run into you repeatedly. It sounds like a man who's been finding you on purpose the entire time, and dressing it up carefully enough that you'd never once think to question it.\"",
+        "I don't have a good answer for that, because some quiet part of me has wondered the exact same thing more than once, late at night, and always found a reason to set the thought back down before examining it too closely. \"Maybe,\" I admit, finally. \"I don't know. I've chosen not to look at it too hard.\"",
+        "\"Why not?\"",
+        "\"Because I like the way it makes me feel, Selene. Even if some of it is stranger than I want to admit.\" I meet her eyes, honest in a way that surprises even me. \"I haven't felt like this in four years. Maybe longer. I'm not ready to examine it hard enough that it stops feeling good.\""
+      ],
+      puzzle: null
+    },
+    {
+      narrator: "katerina",
+      text: [
+        "There's a smile on my face by the time I finish telling her the rest — the way he teases me constantly, the way he shows up with food when I forget to eat, the coat, the flowers, the specific, absurd delight of watching a man capable of clearly terrifying people be so completely undone by my own bad moods. Selene notices it before I do, the way she notices everything about me before I catch up to it myself.",
+        "\"You're doing that thing again,\" she says, quiet now, something soft and careful in her voice. \"That smile. I haven't seen it in years, Katya. Not since before Julian.\"",
+        "\"What smile.\"",
+        "\"The real one. Not the performed one you gave everyone for months after the hospital. This one's different. This one reaches your eyes.\" She studies me a long moment, something settling into certainty on her face. \"Katya. You love him.\""
+      ],
+      puzzle: null
+    },
+    {
+      narrator: "katerina",
+      text: [
+        "I scoff. Loudly. Loud enough that two separate tables actually turn to look, loud enough that the waiter near the kitchen pauses mid-step, loud enough that I feel my own face heat with immediate, mortified embarrassment at the sheer volume of my own denial.",
+        "\"I do not love him.\"",
+        "\"Katya—\"",
+        "\"I don't. I barely tolerate him most days. He's insufferable. He shows up uninvited constantly, he makes cryptic comments in a language I don't speak, he glares at any man who so much as says good morning to me, he's secretive about literally everything that matters, and he compared me to a difficult pastry like that was supposed to be romantic.\"",
+        "\"Those are not reasons you don't love him, Katya. Those are literally just — things he does. None of that is actually an argument against loving him.\"",
+        "\"He canceled a business meeting to carry me barefoot through a restaurant.\"",
+        "\"That's the opposite of your point.\"",
+        "\"He's rude to my clients when they call while we're talking.\"",
+        "\"Also not the point you think it is.\"",
+        "\"He learned my coffee order without me ever telling him.\" I hear myself say it and immediately want to physically retrieve the sentence from the air. Selene's eyebrows climb slowly, delighted, entirely unsurprised. \"That's — I meant that as evidence of how invasive he is.\"",
+        "\"Katya. You just listed four things that are, definitionally, evidence of a man who is completely, hopelessly devoted to you, and used every single one of them as an argument for why you supposedly don't love him.\"",
+        "I open my mouth to argue further and find, for the first time in longer than I can remember, that I genuinely have nothing left to say."
+      ],
+      puzzle: null
+    },
+    {
+      narrator: "katerina",
+      text: [
+        "\"Fine,\" I say, finally, quiet now, all the fight drained out of the word. \"Maybe. Maybe there's something there. I'm not saying the word out loud, Selene. Not yet. But maybe there's something.\"",
+        "\"That's all I needed to hear.\" She reaches across the table, squeezing my hand, something genuinely soft in her expression now, the teasing set fully aside. \"For what it's worth, Katya — whatever the strange details of how you two actually found each other, whatever those six phone numbers actually mean underneath everything — I haven't seen you this alive in four years. I'm choosing to be happy about that first, and worried about the rest of it second.\"",
+        "\"That's a generous ordering of priorities.\"",
+        "\"You've earned generous,\" she says. \"After everything. You've earned this, Katya. Whatever it actually turns out to be.\""
+      ],
+      puzzle: null
+    },
+    {
+      narrator: "katerina",
+      text: [
+        "I don't tell her the last part. The detail I've kept from her, from everyone, tucked away somewhere I don't examine too closely even alone at night.",
+        "The seventh number — his personal one, the one I never blocked — has exactly one other contact saved in its recent call history, visible for half a second the one time his phone lit up on the table between us before he flipped it face-down, fast, faster than any of his usual unhurried movements. A name I only caught in fragments. *D. K.* Called, texted, called again, more times in a single week than my own number appears to be, if the frequency of his replies is anything to judge by.",
+        "I've told myself it's nothing. A business contact, an assistant, someone entirely unremarkable. I've told myself that the same way I've told myself six phone numbers is just persistence, that a coat costing more than my rent means nothing, that a man this careful about his own privacy simply values discretion rather than having something specific to hide.",
+        "\"You went quiet,\" Selene says, watching me carefully across the table.",
+        "\"Just thinking.\"",
+        "\"About him?\"",
+        "\"Always about him, lately,\" I admit, and let the rest of it — the flash of initials, the too-fast flip of the phone — stay exactly where I've kept it for months now, folded small and unexamined, in the same private place I keep everything I'm not yet brave enough to look at directly."
+      ],
+      puzzle: null
+    }
+  ]
 }
 ];
